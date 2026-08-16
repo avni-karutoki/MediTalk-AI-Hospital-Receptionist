@@ -94,6 +94,7 @@ A patient can speak in Hindi or English to:
 
 ## Technical Workflow
 
+```text
 Patient speaks in Hindi or English
               ↓
 Microphone records patient audio
