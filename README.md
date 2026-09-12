@@ -1,6 +1,6 @@
 # MediTalk — AI Hospital Receptionist
 
-MediTalk is a multilingual, voice-first AI hospital receptionist that helps patients register with a hospital and book doctor appointments through natural conversation.
+MediTalk is a multilingual,voice-first AI hospital receptionist that helps patients register with a hospital and book doctor appointments through natural conversation.
 
 The system is designed for patients who may not understand English, have limited technical knowledge, or find traditional hospital registration screens difficult to use.
 
